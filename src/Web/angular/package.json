@@ -40,7 +40,7 @@
     "bootstrap": "^3.3.7",
     "bootstrap-select": "^1.12.2",
     "chart.js": "^2.6.0",
-    "core-js": "^3.2.1",
+    "core-js": "^3.6.4",
     "famfamfam-flags": "^1.0.0",
     "flot": "^0.8.0-alpha",
     "font-awesome": "^4.7.0",
