@@ -60,7 +60,7 @@
     "node-waves": "^0.7.5",
     "push.js": "1.0.9",
     "raphael": "^2.2.7",
-    "rxjs": "^6.2.0",
+    "rxjs": "^6.5.4",
     "simple-line-icons": "^2.4.1",
     "spin.js": "^2.3.2",
     "sweetalert": "^2.0.8",
