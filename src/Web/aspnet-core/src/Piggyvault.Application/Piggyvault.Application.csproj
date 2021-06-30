@@ -12,7 +12,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Code.Library" Version="2.13.1" />
-    <PackageReference Include="Flurl.Http" Version="3.0.1" />
+    <PackageReference Include="Flurl.Http" Version="3.2.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Piggyvault.Core\Piggyvault.Core.csproj" />
