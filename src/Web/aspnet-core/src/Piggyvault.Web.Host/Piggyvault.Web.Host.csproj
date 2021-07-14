@@ -31,7 +31,7 @@
     <ProjectReference Include="..\Piggyvault.Web.Core\Piggyvault.Web.Core.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Abp.Castle.Log4Net" Version="6.0.0" />
+    <PackageReference Include="Abp.Castle.Log4Net" Version="6.4.0" />
     <PackageReference Include="Castle.Core-Serilog" Version="4.4.1" />
     <PackageReference Include="Code.Library.AspNetCore" Version="2.13.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
